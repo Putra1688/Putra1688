@@ -1,8 +1,7 @@
 === ASSALAMUALAIKUM, GRETINGS EVERYONE ===
 - 👋 Hi, I’m @Putra1688
 - 👀 I’m interested in Self Development
-- 🌱 I’m currently learning Programing
-- 💞️ I’m looking to collaborate on Project or Competition
+- 🌱 I’m currently learning Mobile Programing
 
 
 <!---
