@@ -1,13 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=AddaReady%20Studio&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
 # 👋 Hi, I'm Rangga Dwi Saputra (Putra1688)
 ### 🚀 Full-Stack & Mobile Developer | Founder of AddaReady
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Fullstack_Developer-00b4d8?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Mobile_Specialist-0077b6?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Frontend_Developer-0077b6?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Mobile_Developer-0077b6?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Fullstack_Support-00b4d8?style=flat-square" />
   <img src="https://img.shields.io/badge/-UI/UX_Focused-03045e?style=flat-square" />
 </p>
 
@@ -20,6 +21,7 @@
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
@@ -55,10 +57,10 @@
 
 ### 📫 Let's Collaborate
 <p align="left">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:ranggadwisaputra56@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/ranggadsaputra">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
