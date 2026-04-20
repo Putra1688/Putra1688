@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Putra1688&theme=tokyonight&date_format=j%20M%5B%20Y%5D&date_timezone=Asia/Jakarta" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Putra1688&theme=tokyonight&date_format=j%20M%5B%20Y%5D&date_timezone=Asia/Jakarta&v=3" alt="Rangga GitHub Streak"/>
 </p>
 
 
